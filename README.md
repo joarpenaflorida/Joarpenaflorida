@@ -7,14 +7,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a> 
   
-  
-  
+
   
   
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.cdnlogo.com/logos/n/80/next-js.svg" alt="babel" width="40" height="40"/> 
-    <br>Next JS</a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+   
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png" alt="bootstrap" width="40" height="40"/> </a> 
 </p>
