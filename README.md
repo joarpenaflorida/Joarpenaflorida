@@ -8,8 +8,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.cdnlogo.com/logos/n/80/next-js.svg" alt="nextjs" width="40" height="40"/></a> 
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png" alt="reactjs" width="40" height="40"/></a> 
-    <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiX7W09Z78tpyPQq1TDV-Vxfl91ZrnH65dnw&s" alt="nodejs" width="40" height="40"/></a> 
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://logospng.org/wp-content/uploads/typescript.png" alt="typescript" width="40" height="40"/></a> 
 </p>
