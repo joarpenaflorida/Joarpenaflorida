@@ -1,4 +1,5 @@
-<h3 align="center">Frontend Web Developer </h3>
+<h1 align='center'>Joar Parreno Penaflorida</h1>
+<h2 align="center">Frontend Web Developer </h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
